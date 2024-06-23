@@ -1,22 +1,22 @@
 [colors.bright]
 black = "0x4b505b"
-blue = "0x5079be"
-cyan = "0x3a8b84"
-green = "0x608e32"
-magenta = "0xb05ccc"
 red = "0xd05858"
-white = "0xfafafa"
+green = "0x608e32"
 yellow = "0xbe7e05"
+blue = "0x5079be"
+magenta = "0xb05ccc"
+cyan = "0x3a8b84"
+white = "0xbac3cb"
 
 [colors.normal]
-black = "0x4b505b"
-blue = "0x5079be"
-cyan = "0x3a8b84"
-green = "0x608e32"
-magenta = "0xb05ccc"
+black = "0x8790a0"
 red = "0xd05858"
-white = "0xfafafa"
+green = "0x608e32"
 yellow = "0xbe7e05"
+blue = "0x5079be"
+magenta = "0xb05ccc"
+cyan = "0x3a8b84"
+white = "0xdde2e7"
 
 [colors.primary]
 background = "0xfafafa"
